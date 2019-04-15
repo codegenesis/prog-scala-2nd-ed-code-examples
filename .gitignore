@@ -5,3 +5,7 @@ snapshots
 project/project
 project/target
 target
+.idea/dictionaries/tx563le.xml
+*.xml
+.idea/.name
+*.iml
