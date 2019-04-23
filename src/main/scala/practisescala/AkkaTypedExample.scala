@@ -1,0 +1,5 @@
+package practisescala
+
+object AkkaTypedExample {
+
+}
